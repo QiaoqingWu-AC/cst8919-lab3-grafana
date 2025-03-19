@@ -17,7 +17,7 @@ Verified that the Grafana Server is accessible.
 Enabled Managed Identity and assigned "Monitoring Reader" and "Reader" roles to the VM.
 ![sr-5](./screenshots/Screenshot-5.png) 
 ## Step - 6
-Enabled Managed Identity authentication to for data source.
+Enabled Managed Identity authentication for data source.
 ![sr-6](./screenshots/Screenshot-6.png)
 ## Step - 7
 Added the "Azure Monitor" data source using Managed Identity.
